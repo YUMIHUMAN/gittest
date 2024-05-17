@@ -39,3 +39,31 @@
       1. レベル 2
    1. レベル 1
 1. レベル 0
+
+# 見出し
+
+# レベル 0
+
+ほげ
+
+## レベル 1
+
+ふが
+
+### レベル 2
+
+ぴよ
+
+# リンク
+
+ほげ[ふが](https:/github.com/)ぴよ
+
+### docs/index.md から docs/fuga/hoge.md にリンクを張る場合
+
+[ほげ](./fuga/hoge.md)
+
+# 画像
+
+### docs/index.md で docs/hoge.png の画像を表示したい場合
+
+![ほげ](img/jaja.jpeg)
