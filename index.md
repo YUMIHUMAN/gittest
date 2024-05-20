@@ -1,3 +1,7 @@
+# second.md への遷移
+
+[second.md](second.md)
+
 # 改行されない場合の例
 
 こんにちは
